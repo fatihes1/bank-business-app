@@ -1,9 +1,12 @@
 import React from "react";
+import { feedback } from "../constants";
+import styles from "../style";
+import FeedbackCard from "./FeedbackCard";
 
-const Testimonials = () => {
-    return (
-        <h1>Testimonials</h1>
-    )
-};
+const Testimonials = () => (
+    <div>
+
+    </div>
+)
 
 export default Testimonials;
